@@ -2,7 +2,7 @@
 Adapt from ms computer network review file
 ms homepage: http://home.ustc.edu.cn/~yssickjgd/
 
-十分感谢ms在计算机网络这门课中的付出：）
+首先十分感谢ms在计算机网络这门课中的付出：）
 
 复习笔记仅在ms网安大礼包中计算机网络的复习提纲的基础上丰富了一些内容以及重点信息（结合了ms的b站复习课和一些自己的理解）
 供没有时间细看ms复习课且不想一边查看ppt一边翻提纲的同学使用
@@ -15,4 +15,6 @@ ms homepage: http://home.ustc.edu.cn/~yssickjgd/
 
 最后，所有复习内容仅为参考作用，如果与ppt内容有出入（每年的ppt都可能有些许修改），考试以教学ppt内容为准。
 
-注：所有内容都为ms复习提纲的改编，无剽窃ms劳动成果的意思，如有冒犯，我会直接删库：）
+注：所有内容都为ms复习提纲的改编，无剽窃ms劳动成果意图，如有冒犯，请告知：）
+
+出分辣，93分，看来以上资料还是有些用的/doge
